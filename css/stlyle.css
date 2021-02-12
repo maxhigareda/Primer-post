@@ -1,5 +1,10 @@
 body{
     background-color: black;
-color: aquamarine;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: blue;
+    font-size: 3em;
 }
